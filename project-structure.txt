@@ -1,0 +1,133 @@
+Folder PATH listing
+Volume serial number is 62CA-A7EE
+C:.
+|   .classpath
+|   .gitignore
+|   .project
+|   pom.xml
+|   project-structure.txt
+|   
++---.mvn
+|       jvm.config
+|       maven.config
+|       
++---.settings
+|       org.eclipse.core.resources.prefs
+|       org.eclipse.jdt.core.prefs
+|       org.eclipse.m2e.core.prefs
+|       
++---src
+|   +---main
+|   |   +---java
+|   |   |   |   hibernate.cfg.xml
+|   |   |   |   
+|   |   |   \---OnlineShop
+|   |   |       \---OnlineShop
+|   |   \---resources
+|   |           log4j.properties
+|   |           
+|   +---site
+|   |       site.xml
+|   |       
+|   \---test
+|       \---java
+|           \---OnlineShop
+|               \---OnlineShop
+|                       AppTest.java
+|                       
+\---target
+    +---classes
+    |   |   hibernate.cfg.xml
+    |   |   log4j.properties
+    |   |   
+    |   +---META-INF
+    |   |   |   MANIFEST.MF
+    |   |   |   
+    |   |   \---maven
+    |   |       \---OnlineShop
+    |   |           \---OnlineShop
+    |   |                   pom.properties
+    |   |                   pom.xml
+    |   |                   
+    |   \---OnlineShop
+    |       \---OnlineShop
+    |           |   HibernateUtil.class
+    |           |   Product.class
+    |           |   ProductDao.class
+    |           |   
+    |           \---.git
+    |               |   COMMIT_EDITMSG
+    |               |   config
+    |               |   description
+    |               |   HEAD
+    |               |   index
+    |               |   
+    |               +---hooks
+    |               |       applypatch-msg.sample
+    |               |       commit-msg.sample
+    |               |       fsmonitor-watchman.sample
+    |               |       post-update.sample
+    |               |       pre-applypatch.sample
+    |               |       pre-commit.sample
+    |               |       pre-merge-commit.sample
+    |               |       pre-push.sample
+    |               |       pre-rebase.sample
+    |               |       pre-receive.sample
+    |               |       prepare-commit-msg.sample
+    |               |       push-to-checkout.sample
+    |               |       sendemail-validate.sample
+    |               |       update.sample
+    |               |       
+    |               +---info
+    |               |       exclude
+    |               |       
+    |               +---logs
+    |               |   |   HEAD
+    |               |   |   
+    |               |   \---refs
+    |               |       \---heads
+    |               |               master
+    |               |               
+    |               +---objects
+    |               |   +---29
+    |               |   |       a69638d7b446a4e17619e8fc776b66f71baa1e
+    |               |   |       
+    |               |   +---40
+    |               |   |       bd168c4a4aa38bb27d34e8d963f8a156fa08d1
+    |               |   |       
+    |               |   +---63
+    |               |   |       78e40b89539ff16b43e471b5cb17275aea30b6
+    |               |   |       
+    |               |   +---66
+    |               |   |       7efb4e06c32481596e06a29b011e726c4f2c6b
+    |               |   |       
+    |               |   +---88
+    |               |   |       b40064bebfdc9608d0adc09e8ec2b1d3626c4e
+    |               |   |       
+    |               |   +---93
+    |               |   |       a18f497b2e3db14e7483113b7d0287e9d657d8
+    |               |   |       
+    |               |   +---a9
+    |               |   |       1164b0eb376d8234fd15dbfaa2df09aad87204
+    |               |   |       
+    |               |   +---c7
+    |               |   |       34fb10f161109274e71184e5df44678a7e49eb
+    |               |   |       
+    |               |   +---ca
+    |               |   |       6d6757ba958b6db0cfa9a4a2537ff2413d5913
+    |               |   |       
+    |               |   +---de
+    |               |   |       ccec6b385b49dd9082f7faefd7dcd6ccc7032a
+    |               |   |       
+    |               |   +---info
+    |               |   \---pack
+    |               \---refs
+    |                   +---heads
+    |                   |       master
+    |                   |       
+    |                   \---tags
+    \---test-classes
+        \---OnlineShop
+            \---OnlineShop
+                    AppTest.class
+                    
