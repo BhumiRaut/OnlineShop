@@ -1,0 +1,13 @@
+# Ignore compiled files
+/target/
+
+# IDE settings
+*.class
+*.log
+*.iml
+.idea/
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
